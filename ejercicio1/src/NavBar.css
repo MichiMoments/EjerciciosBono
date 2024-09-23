@@ -1,0 +1,9 @@
+.searchBar {
+    background-color: white !important; 
+    color: black;
+}
+
+.searchBar::placeholder {
+    background-color: white !important;
+    color: black;
+}

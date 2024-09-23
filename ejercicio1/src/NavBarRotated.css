@@ -1,0 +1,17 @@
+.mirrored {
+  transform: scaleX(-1);
+}
+
+.mirrored * {
+  transform: scaleX(-1)
+}
+
+.searchBar {
+    background-color: white;
+    color: black;
+}
+
+.searchBar::placeholder {
+    background-color: white;
+    color: black;
+}
